@@ -1,0 +1,61 @@
+#leftBar {
+	float:left;
+	width:70%;
+	padding:20px;
+	margin-bottom:10px;
+	background-color: #EAEBEE;
+	border-radius:0px 40px 40px 0px;
+}
+
+#chatLog{
+	background-color: #CCCCCC;
+	height:400px;
+	border-radius:20px;
+	padding:10px;
+	overflow:auto;
+	color:#fff;
+}
+
+#addChat{
+	margin:10px;
+}	
+	
+#rightBar {
+	float:right;	
+	padding:20px;;
+	width: 20%;
+	background-color:#EAEBEE;
+	border-radius:40px 0px 0px 40px;
+	padding-bottom:55px;
+}
+#userList{
+	background-color: #CCCCCC;
+	height:400px;
+	border-radius:20px;
+	padding:10px;
+	overflow:auto;
+	text-align:center;
+	padding-top:20px;
+	overflow:auto;
+}
+#userList div{
+	margin:auto;
+	text-decoration:none;
+	letter-spacing: 0;
+	font: 20px/22px sans-serif;
+	background-color:#ECEBEE;
+	border-radius:10px;
+	padding:2px 10px;
+	width:50%;
+	cursor:pointer;
+}
+#userList div:hover{
+	background-color:#EdEdEE;
+}
+
+input {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	border-radius:5px;
+	border: 1px solid #666666;
+}	

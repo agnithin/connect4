@@ -1,0 +1,64 @@
+header{
+	text-align:center;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+header h2{
+	margin:0px  auto 7px auto;
+	letter-spacing: 0;
+	font: 60px/68px 'TechniqueBRKNormal', Arial, sans-serif;
+}
+
+#titleBar
+{
+	margin-top:100px;
+	width:130px;
+	border: 2px solid #778;
+	border-bottom: 0px;
+	background: #698fa8;
+	text-decoration: none;
+	border-radius: 20px 20px 0px 0px;
+	text-align:center;
+	margin-left: auto;
+    margin-right: auto;
+	padding-bottom: 6px;
+}
+
+#titleBar h2{
+	margin:0px  auto 0px auto;
+	color: #fff;
+	font: 30px/34px 'DaysRegular', Arial, sans-serif; 
+	letter-spacing: 0;
+}
+
+#login, #register
+{
+	width:270px;
+	padding: 5px;
+	padding-bottom:0px;
+	border: 2px solid #778;
+	background: #698fa8;
+	text-decoration: none;
+	border-radius: 20px;
+	text-align:center;
+	margin-left: auto;
+    margin-right: auto;
+	color: #FFF;
+	font: 15px/17px 'DaysRegular', Arial, sans-serif;
+}
+input[type="submit"]{
+	padding:3px;
+	margin: 2px;
+	border:1px solid #aaa;
+	border-radius: 10px;
+	background-color:#E8E8E8;
+	font-weight:bold;
+	color:#365D95;
+}
+
+input[type="text"],input[type="password"] {
+	border:1px solid #aaa;
+	border-radius: 10px;
+	padding:5px;
+}
